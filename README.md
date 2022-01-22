@@ -1,4 +1,4 @@
-This project details ML models trained to predict house prices and a dashboard application built on them, meant to inform data-driven home evaluation and flipping.
+This project details machine learning modeling to predict home values in Ames, Iowa with accuracy above 95%. We built a dashboard application on top of our models meant to inform data-driven home evaluation and flipping.
 
 Try the app at https://kiwymic.pythonanywhere.com
 
