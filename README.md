@@ -1,6 +1,6 @@
 This project details ML models trained to predict house prices and a dashboard application built on them, meant to inform data-driven home evaluation and flipping.
 
-Try the app at kiwymic.pythonanywhere.com
+Try the app at https://kiwymic.pythonanywhere.com
 
 Read about the project at https://nycdatascience.com/blog/student-works/a-dashboard-application-for-data-driven-house-flipping/
 
